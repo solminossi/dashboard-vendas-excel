@@ -1,6 +1,6 @@
 Dashboard de Vendas — Maxi Pastéis
 
-![Dashboard](./Painel%20de%20Controle.png)
+![Dashboard](./Painel%20de%20controle.png)
 
 Sobre o Projeto
 
